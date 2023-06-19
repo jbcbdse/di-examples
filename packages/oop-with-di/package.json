@@ -1,0 +1,13 @@
+{
+  "name": "oop-with-di",
+  "scripts": {
+    "lint": "eslint --config ../../.eslintrc.json src/**/*.ts",
+    "start": "ts-node src/app.ts"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

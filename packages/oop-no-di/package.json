@@ -1,0 +1,7 @@
+{
+  "name": "oop-no-di",
+  "scripts": {
+    "lint": "eslint --config ../../.eslintrc.json src/**/*.ts",
+    "start": "ts-node src/app.ts"
+  }
+}

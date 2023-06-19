@@ -1,0 +1,20 @@
+{
+  "name": "di-examples",
+  "workspaces": [
+    "packages/fp-no-di",
+    "packages/oop-no-di",
+    "packages/oop-with-di"
+  ],
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.6.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "@typescript-eslint/eslint-plugin": "^5.59.11",
+    "@typescript-eslint/parser": "^5.59.11",
+    "eslint": "^7.32.0",
+    "ts-node": "^10.9.1",
+    "typescript": "~5.0.0"
+  }
+}
